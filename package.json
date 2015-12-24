@@ -1,5 +1,5 @@
 {
-  "name": "wantu-nodejsSDK",
+  "name": "wantu",
   "version": "0.0.1",
   "description": "wantu sdk for node.js",
   "main": "index.js",
